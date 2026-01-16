@@ -1,0 +1,6 @@
+# Color-Sorter
+This project integrates a Raspberry Pi (Logic & UI) and an Arduino (Sensor Control) to build a fully automated sorting machine. It uses a custom GPIO Pulse Protocol to synchronize hardware events with a multi-threaded Python interface, allowing for real-time tracking, sorting, and manual overrides.
+
+DISCLAIMERS: YOU MUST BE ON RASPBERRY PI TO HAVE ACCESS TO THE RPi.GPIO library. Otherwise, the python code will not run. AFAIK, RPi.GPIO is not available on laptop. For color_identify.ino color sensor logic and inputs must be calibrated to your own color sensor. Factors like ambient light, type of sensor, size of object you want to scan, etc will make the code for my color sensor different from the code you must use for accurate results. color_identify.ino code should be pasted onto the Arduino IDE and uploaded to an Arduino Nano. color_sorter_python.py should be uploaded to a python IDE on the raspberry pi. The IDE i used was Thonny. 
+
+Video demonstrations and a (very rough) manual schematic edited using photoshop can be found below. The schematic software I used, Tinkercad does not have a simulated Raspberry Pi so I couldn't use it to generate a schematic. You may refer to the video below to see a bit of the circuitry but don't expect it to be readable as it is just a mess of jumper wires:
