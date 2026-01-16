@@ -45,6 +45,7 @@ GPIO.setup(sort_servo,GPIO.OUT)
 sort_servo_obj=GPIO.PWM(sort_servo,50)
 scan_servo_obj=GPIO.PWM(scan_servo,50)
 
+
 # Count variable for sensor readings
 count=0
 global can_press
@@ -87,23 +88,23 @@ def moveTo(arg):
     if color=="Red": 
         colors["Red"] += 1
         scan_servo_obj.start(9.5) #servo position so there is no hole under skittle
-        sort_servo_obj.ChangeDutyCycle(11.2) #specific position to sort red skittle into red box.
+        sort_servo_obj.start(11.2) #specific position to sort red skittle into red box.
     elif color=="Green":
         colors["Green"] += 1
         scan_servo_obj.start(9.5)
-        sort_servo_obj.ChangeDutyCycle(10)#specific position to sort red skittle into green box.
+        sort_servo_obj.start(10)#specific position to sort red skittle into green box.
     elif color=="Orange":
         colors["Orange"] += 1
         scan_servo_obj.start(9.5)
-        sort_servo_obj.ChangeDutyCycle(8.6)#specific position to sort red skittle into orange box.
+        sort_servo_obj.start(8.6)#specific position to sort red skittle into orange box.
     elif color=="Purple":
         colors["Purple"] += 1
         scan_servo_obj.start(9.5)
-        sort_servo_obj.ChangeDutyCycle(6)#specific position to sort red skittle into purple box.
+        sort_servo_obj.start(6)#specific position to sort red skittle into purple box.
     elif color=="Unknown":
         colors["Unknown"] += 1   
         scan_servo_obj.start(9.5)
-        sort_servo_obj.ChangeDutyCycle(7.6)#specific position to sort red skittle into unknown box.
+        sort_servo_obj.start(7.6)#specific position to sort red skittle into unknown box.
     
     # Move arm to drop location,wait,reset position
     time.sleep(2)
