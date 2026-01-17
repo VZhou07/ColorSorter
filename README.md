@@ -11,6 +11,6 @@ Video demonstrations and a circuit schematic can be found below. You may refer t
 # **Video Showing Circuitry**
 [![Color Sorter Circuitry](https://private-user-images.githubusercontent.com/232115392/537056854-b416f3dd-ccac-4a11-96c0-49c937b60dc5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg2MDc1OTksIm5iZiI6MTc2ODYwNzI5OSwicGF0aCI6Ii8yMzIxMTUzOTIvNTM3MDU2ODU0LWI0MTZmM2RkLWNjYWMtNGExMS05NmMwLTQ5YzkzN2I2MGRjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNlQyMzQ4MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MmQ5MDMwNTc2ZmM3YWU5YzkxZWY1ZGU5NDc1Njg3NmIzYjQyYzhiMDNkODg1N2M2MDYxYTZlMjE0ZTcyYmQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Bo8UtgLFBjNOSbSUdXnwTzKQCHojcwVRGfXm8ETnwcA)](https://www.youtube.com/watch?v=T-Vl8kB1nAQ)
 
-# **Very Rough Circuit Schematic**
-![image_2026-01-16_185927868](https://github.com/user-attachments/assets/0c8e87f4-fb86-4dfa-a54b-15c14841552c)
+# **Circuit Schematic**
+<img width="2816" height="1504" alt="Circuit Schematic" src="https://github.com/user-attachments/assets/0217b41c-1932-4696-8eaf-e7c4cb77777d" />
 
