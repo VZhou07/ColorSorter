@@ -8,9 +8,6 @@ Video demonstrations and a circuit schematic can be found below. You may refer t
 # **YOUTUBE VIDEO COLOR SORTER DEMO**
 [![Color Sorter Demo](https://github.com/user-attachments/assets/0fc8af2e-87a8-40ff-a1a8-666c2bdce8f7)](https://www.youtube.com/watch?v=9fzAuMDgA8s)
 
-# **Video Showing Circuitry**
-[![Color Sorter Circuitry](https://github.com/user-attachments/assets/8f840425-83ec-4f5c-b66f-0ad2392fa737)](https://www.youtube.com/watch?v=T-Vl8kB1nAQ)
-
 # **Circuit Schematic**
 <img width="2816" height="1504" alt="Circuit Schematic" src="https://github.com/user-attachments/assets/0217b41c-1932-4696-8eaf-e7c4cb77777d" />
 
